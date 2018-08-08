@@ -1,0 +1,5 @@
+<!--Transsion Top Secret-->
+<config>
+<!--Android One log-->
+<feature name="com.google.android.feature.ANDROID_ONE_EXPERIENCE" />
+</config> 

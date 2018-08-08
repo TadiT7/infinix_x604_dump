@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Jun 28 11:15:16 CST 2018
+ro.bootimage.build.date.utc=1530155716
+ro.bootimage.build.fingerprint=Infinix/H633/Infinix-X604_sprout:8.1.0/O11019/H-180628V207:user/release-keys
+persist.sys.usb.config=none
